@@ -2,8 +2,6 @@
 
 ### A backend developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhani05" alt="nhani05" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nhani05x" target="blank"><img src="https://img.shields.io/twitter/follow/nhani05x?logo=twitter&style=for-the-badge" alt="nhani05x" /></a> </p>
 
 - 🔭 I'm currently working on **a spring boot project**
