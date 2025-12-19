@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/nhani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nhani05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nhan-le-xuan-1774a62aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nhan-le-xuan-1774a62aa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nhan-le-xuan-1774a62aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nhan-le-xuan-1774a62aa/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29979744/nhani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29979744/nhani05" height="30" width="40" /></a>
 <a href="https://fb.com/nhani05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhani05" height="30" width="40" /></a>
 <a href="https://twitter.com/nhani05x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nhani05x" height="30" width="40" /></a>
